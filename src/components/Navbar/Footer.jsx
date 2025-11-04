@@ -1,5 +1,4 @@
 // src/components/Footer.jsx
-import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 import Logo from '../../assets/images/logo.png'; // adjust path
 
 const Footer = () => {
