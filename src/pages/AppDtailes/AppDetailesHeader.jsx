@@ -17,9 +17,9 @@ const AppDetailesHeader = ({ app, addApp, disabled }) => {
 
     return (
         <div className="w-11/12 mx-auto my-10">
-            {/* Main Layout */}
+            
             <div className="flex flex-col lg:flex-row gap-6 items-stretch">
-                {/* App Image */}
+          
                 <div className="lg:w-1/3 w-full flex justify-center">
                     <img
                         className="rounded-2xl shadow-xl w-50 object-cover h-50"
@@ -28,9 +28,9 @@ const AppDetailesHeader = ({ app, addApp, disabled }) => {
                     />
                 </div>
 
-                {/* App Info */}
+           
                 <div className="lg:w-2/3 w-full space-y-5">
-                    {/* Header */}
+                
                     <div className="border-b-2 border-secondary pb-4 space-y-2">
                         <h2 className="text-primary text-3xl font-bold">
                             {app.title || "SmPlan: ToDo List with Reminder"}
@@ -43,7 +43,7 @@ const AppDetailesHeader = ({ app, addApp, disabled }) => {
                         </p>
                     </div>
 
-                    {/* Stats */}
+                 
                     <div className="flex flex-wrap justify-between gap-4 py-3">
                         <div className="stats bg-base-200 shadow-md rounded-xl">
                             <div className="stat text-center">
@@ -67,7 +67,7 @@ const AppDetailesHeader = ({ app, addApp, disabled }) => {
                         </div>
                     </div>
 
-                    {/* Install Button */}
+                 
                     <div>
                         <button className="btn btn-success text-white shadow-lg hover:shadow-2xl text-lg px-8" onClick={handleInstall} disabled={disabled}>
                             {clicked && `Install Now ${app.size} (MB)`}

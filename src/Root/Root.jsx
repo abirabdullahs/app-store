@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import Navbar from './../components/Navbar/Navbar';
-import { Outlet } from 'react-router';
+import { Outlet, useLocation } from 'react-router';
 import Footer from './../components/Navbar/Footer';
-import { useLocation } from 'react-router-dom';
+import { useNavigation } from 'react-router-dom';
 import Loader from './../components/Loader/Loader';
 
 const Root = () => {
@@ -15,8 +15,10 @@ const Root = () => {
         }
     });
     const [disabled, setDisabled] = useState(false);
+    // use the router navigation state to show loading during route transitions
+    const navigation = useNavigation();
     const location = useLocation();
-    const [navLoading, setNavLoading] = useState(false);
+    const [showNavLoader, setShowNavLoader] = useState(false);
 
     useEffect(() => {
         try {
@@ -27,18 +29,27 @@ const Root = () => {
     }, [selectedApps]);
 
 
-    useEffect(() => {
-        setNavLoading(true);
-        const t = setTimeout(() => setNavLoading(false), 300);
-        return () => clearTimeout(t);
-    }, [location.pathname]);
     
+    useEffect(() => {
+        if (navigation.state === 'loading') {
+            setShowNavLoader(true);
+            return;
+        }
+
+       
+        const t = setTimeout(() => setShowNavLoader(false), 200);
+        return () => clearTimeout(t);
+    }, [navigation.state, location.pathname]);
     return (
         <div className='max-w-7xl mx-auto'>
             <Navbar />
             <Outlet context={{ selectedApps, setSelectedApps , disabled, setDisabled }} />
             <Footer />
-            {navLoading && <Loader />}
+            {showNavLoader && (
+                <div className="fixed inset-0 flex items-center justify-center bg-black/30 z-50">
+                    <Loader />
+                </div>
+            )}
             
         </div>
     );

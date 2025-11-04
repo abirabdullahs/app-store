@@ -9,13 +9,11 @@ function Navbar() {
         <div className="flex justify-between h-16 items-center">
           
         
-          {/* Left: Logo + Name */}
           <div className="flex items-center">
             <NavLink to ='/'><img src={Logo} alt="Logo" className="h-8 w-8 mr-2"/></NavLink>
             <span className="text-xl font-bold text-purple-600">HERO.IO</span>
           </div>
           
-          {/* Center: Navigation Links */}
           <nav className="hidden md:flex space-x-8">
             <NavLink
               to='/'
@@ -43,7 +41,7 @@ function Navbar() {
             </NavLink>
           </nav>
           
-          {/* Right: Contribute Button */}
+       
           <div>
             <a
               href="https://github.com/abirabdullahs"

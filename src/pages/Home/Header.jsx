@@ -4,7 +4,7 @@ import HeroImg from '../../assets/images/hero.png'
  function Header() {
   return (
     <section className="bg-white text-black flex flex-col items-center justify-center py-20">
-      {/* Top Title */}
+
       <div className="text-center max-w-3xl px-4">
         <h2 className="text-3xl md:text-4xl font-semibold">
           We Build{" "}
@@ -18,7 +18,6 @@ import HeroImg from '../../assets/images/hero.png'
           experiences that truly make an impact.
         </p>
 
-        {/* App Store Buttons */}
         <div className="flex justify-center gap-3 mt-6">
           <button className="bg-white border border-gray-700 hover:border-purple-500 hover:bg-gray-800 transition px-4 py-2 rounded-lg text-sm flex items-center gap-2">
             <a href="https://play.google.com/store/games?hl=en">
@@ -41,7 +40,7 @@ import HeroImg from '../../assets/images/hero.png'
         </div>
       </div>
 
-      {/* Image Section */}
+
       <div className="mt-12 flex justify-center">
         <img
           src={HeroImg}
@@ -50,7 +49,7 @@ import HeroImg from '../../assets/images/hero.png'
         />
       </div>
 
-      {/* Stats Section */}
+     
       <div className="bg-linear-to-r from-purple-600 to-indigo-600 w-full py-10 text-center text-black">
         <h3 className="text-xl md:text-2xl font-semibold mb-6">
           Trusted By Millions, Built For You

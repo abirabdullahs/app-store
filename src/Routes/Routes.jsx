@@ -17,14 +17,15 @@ export const router = createBrowserRouter([
     errorElement: <ErrorPage></ErrorPage>,
     children : [
       {
-        
         index: true,
-        loader: ()=> fetch('apps.json'),
-        path : '/',
+       
+        loader: () => fetch('apps.json').then(res => res.json()),
+        path: '/',
         Component: Home
       },
       {
-        loader: ()=> fetch('apps.json'),
+      
+        loader: () => fetch('apps.json').then(res => res.json()),
         path: '/Apps',
         Component: AllApps
       },
