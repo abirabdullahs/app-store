@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "image": "https://m.media-amazon.com/images/I/81OPYEjYoTL._SL500_.png",
+    "title": "FocusFlow",
+    "companyName": "NeuraTech Labs",
+    "description": "FocusFlow is designed to help you concentrate in a world full of distractions. Whether you're studying, working, or engaging in a creative project, this app provides intuitive tools to organize your tasks and track your time. It offers customizable focus sessions, gentle reminders, and detailed analytics to help you understand your productivity patterns. Over time, FocusFlow helps you build better focus habits and increases your efficiency. The app is perfect for students, professionals, and anyone looking to reclaim their attention in a digital age. Its sleek interface and smooth animations make the experience enjoyable and motivating. FocusFlow is more than a productivity tool—it’s a companion for your focus journey. By integrating simple behavioral insights, it encourages mindfulness and reduces digital clutter. With integrated charts and streak tracking, you can visualize your growth and stay motivated. Whether you’re setting daily goals or working on long-term projects, FocusFlow keeps you on track. Every feature is crafted to reduce stress while maximizing output. This app transforms the way you manage your attention and time.",
+    "size": 45,
+    "reviews": 15320,
+    "ratingAvg": 4.6,
+    "downloads": "12M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8600 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://yt3.googleusercontent.com/ytc/AIdro_k-6S4fDy0UD77chaehcROHgdswKZ0IBZznKkU-BO-ZHPTt=s900-c-k-c0x00ffffff-no-rj",
+    "title": "CodeMentor",
+    "companyName": "DevSync",
+    "description": " Connect with expert developers for real-time coding assistance and mentorship. app offers live chat, code reviews, and personalized learning paths to help you grow your programming skills. Whether you're a beginner or an experienced coder, CodeMentor provides the support you need to tackle challenges and advance your career. built-in code editor and collaboration tools make it easy to work on projects together, while our extensive library of resources ensures you have access to the latest industry knowledge. Join a community of passionate developers and take your coding skills to the next level with CodeMentor. app is perfect for students, professionals, and hobbyists looking to improve their coding abilities. With CodeMentor, you'll never feel stuck again. Our experts are available around the clock to provide guidance and support whenever you need it. Whether you're preparing for a coding interview, working on a personal project, or seeking advice on best practices, CodeMentor is here to help you succeed. Download now and start your journey towards becoming a better developer today! seamless integration with popular coding platforms and languages ensures that you can get help no matter what you're working on. With CodeMentor, the world of coding is at your fingertips.",
+    "size": 82,
+    "reviews": 29800,
+    "ratingAvg": 4.8,
+    "downloads": "32M",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 6100 },
+      { "name": "5 star", "count": 20230 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://play-lh.googleusercontent.com/79VnwktTFAXPrGMzG8yx_8RExc98MTuoXgSGQvDL9VNl7bDQ7OXcdzruWhcdjBmQuw",
+    "title": "MindEase",
+    "companyName": "Calmify Inc.",
+    "description": "Meditation and relaxation app with guided breathing and focus sessions. app offers a variety of meditation techniques, including mindfulness, body scan, and loving-kindness meditations. Whether you're new to meditation or an experienced practitioner, MindEase provides a supportive environment to help you cultivate inner peace and reduce stress. With customizable session lengths and soothing background sounds, you can tailor your meditation experience to fit your lifestyle. The app also includes progress tracking and reminders to help you stay consistent with your practice. Join a community of like-minded individuals and embark on a journey towards greater well-being with MindEase. perfect for anyone looking to improve their mental health and overall quality of life. With regular use, MindEase can help you develop resilience, enhance focus, and foster a deeper connection with yourself. Download now and start your path to mindfulness today! Whether you're seeking relief from anxiety, better sleep, or simply a moment of calm in your busy day, MindEase is here to support you every step of the way. with a user-friendly interface and expert guidance, MindEase makes meditation accessible to everyone. Start your journey to a calmer mind today. quality of life. With regular use, MindEase can help you develop resilience, enhance focus, and foster a deeper connection with yourself. Download now and start your path to mindfulness today! Whether you're seeking relief from anxiety, better sleep, or simply a moment of calm in your busy day, MindEase is here to support you every step of the way. with a user-friendly interface and expert guidance, MindEase makes meditation accessible to everyone. Start your journey to a calmer mind today. ",
+    "size": 67,
+    "reviews": 45200,
+    "ratingAvg": 4.9,
+    "downloads": "42M",
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 37410 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "data:image/jpeg;base64,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",
+    "title": "TaskLink",
+    "companyName": "HERO.IO",
+    "description": "Organize your daily workflow with smart task grouping and reminders. and reminders. With TaskLink, you can easily create, manage, and prioritize your tasks to boost productivity and stay on top of your responsibilities. The app features intuitive task grouping, allowing you to categorize tasks by project, deadline, or priority level. Set customizable reminders to ensure you never miss an important deadline. TaskLink also offers seamless synchronization across devices, so you can access your tasks anytime, anywhere. Whether you're a student, professional, or busy parent, TaskLink is designed to help you stay organized and focused throughout your day. Download TaskLink now and take control of your tasks with ease! and reminders. With TaskLink, you can easily create, manage, and prioritize your tasks to boost productivity and stay on top of your responsibilities. The app features intuitive task grouping, allowing you to categorize tasks by project, deadline, or priority level. Set customizable reminders to ensure you never miss an important deadline. TaskLink also offers seamless synchronization across devices, so you can access your tasks anytime, anywhere. Whether you're a student, professional, or busy parent, TaskLink is designed to help you stay organized and focused throughout your day. Download TaskLink now and take control of your tasks with ease!  save time and reduce stress with TaskLink's efficient task management features. download TaskLink today and experience the difference! download TaskLink today and experience the difference! load TaskLink today and experience the difference! manage your tasks like a pro with TaskLink's user-friendly interface and powerful features. Stay organized, meet deadlines, and achieve your goals with TaskLink - your ultimate task management companion. keep your tasks in check and boost your productivity with TaskLink. Download now and start organizing your life! plan, prioritize, and conquer your to-do list with TaskLink. Get started today and take the first step towards a more organized life! ",
+    "size": 38,
+    "reviews": 16700,
+    "ratingAvg": 4.4,
+    "downloads": "95M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 6580 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://play-lh.googleusercontent.com/MfuX56iLYLxx-ViipS2kixYnF_DfarHUBBraFGhlF-pmulPVPVZ0gqjJvUPU0qOp-Q42",
+    "title": "HealthMate",
+    "companyName": "LifePlus",
+    "description": "Track your workouts, calories, and heart rate all in one intuitive app.",
+    "size": 96,
+    "reviews": 87600,
+    "ratingAvg": 4.7,
+    "downloads": "85M",
+    "ratings": [
+      { "name": "1 star", "count": 1200 },
+      { "name": "2 star", "count": 1800 },
+      { "name": "3 star", "count": 6900 },
+      { "name": "4 star", "count": 21200 },
+      { "name": "5 star", "count": 56400 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "data:image/jpeg;base64,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",
+    "title": "NoteBox",
+    "companyName": "FlexySoft",
+    "description": "A minimalistic note-taking app that syncs instantly across all devices.",
+    "size": 25,
+    "reviews": 7800,
+    "ratingAvg": 4.3,
+    "downloads": "64M",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 3410 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "data:image/jpeg;base64,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",
+    "title": "TravelEase",
+    "companyName": "GlobeTrip Co.",
+    "description": "Plan, book, and explore trips with local recommendations worldwide.",
+    "size": 120,
+    "reviews": 32400,
+    "ratingAvg": 4.5,
+    "downloads": "27M",
+    "ratings": [
+      { "name": "1 star", "count": 720 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3900 },
+      { "name": "4 star", "count": 8800 },
+      { "name": "5 star", "count": 17880 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://play-lh.googleusercontent.com/7J4Hc-XVya3988IMCmmp3ob61bzqfo-Lh987gtebKItpazCfyyW65IQ-grbsTxAMhgqE=w240-h480-rw",
+    "title": "EduVerse",
+    "companyName": "NextLearn",
+    "description": "Online learning platform featuring expert-led courses and video tutorials.",
+    "size": 89,
+    "reviews": 60200,
+    "ratingAvg": 4.8,
+    "downloads": "52M",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 2600 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 47220 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://play-lh.googleusercontent.com/OG4jTc230xd5bXeJX-YoxOLx8XzaEb4RV2gq8E1I4vzAXvAiJjKOQFKJ9msFpSwV0Q",
+    "title": "ChatHive",
+    "companyName": "CoreNet",
+    "description": "Modern chat app with AI-based message summarization and smart replies.",
+    "size": 52,
+    "reviews": 44100,
+    "ratingAvg": 4.6,
+    "downloads": "46M",
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 880 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9100 },
+      { "name": "5 star", "count": 30500 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStYCX9Nn8P6Flj4SrPUd9Gi2lbg2YauxLZ0g&s",
+    "title": "StudySync",
+    "companyName": "SmartEd",
+    "description": "Collaborative study sessions and smart flashcards for students.",
+    "size": 78,
+    "reviews": 39200,
+    "ratingAvg": 4.7,
+    "downloads": "34M",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 8200 },
+      { "name": "5 star", "count": 27040 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://play-lh.googleusercontent.com/9WM7lHf9tOtlkGmAjrV_5gCJR-YhB4fXOjioAm2ZL_t8YL3lZJ66lvGiyEiPDavw8w=w240-h480-rw",
+    "title": "BudgetPro",
+    "companyName": "FinSnap",
+    "description": "Manage your finances and savings with visual expense tracking tools.",
+    "size": 61,
+    "reviews": 25400,
+    "ratingAvg": 4.4,
+    "downloads": "19M",
+    "ratings": [
+      { "name": "1 star", "count": 630 },
+      { "name": "2 star", "count": 870 },
+      { "name": "3 star", "count": 2900 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://play-lh.googleusercontent.com/Ws2WcobJCK3U5j2eJ-Sz5v4EPJ3izsln4Ul54GEpNlnp-w0PZwh8OPxWc6NyZVdmMg",
+    "title": "DocuScan",
+    "companyName": "Scanify",
+    "description": "Fast and secure document scanner with auto-edge detection and PDF export.",
+    "size": 33,
+    "reviews": 16800,
+    "ratingAvg": 4.2,
+    "downloads": "87M",
+    "ratings": [
+      { "name": "1 star", "count": 540 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 7640 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://play-lh.googleusercontent.com/5SLG2s107uPPgbkjFsKxdEMI8P85FDxZzZ2lXsryBxP3DhcH49ILOtW7verzgV6Xoavz",
+    "title": "FitTrack",
+    "companyName": "PulseMotion",
+    "description": "Personal fitness tracker that adapts workouts to your progress.",
+    "size": 58,
+    "reviews": 51400,
+    "ratingAvg": 4.8,
+    "downloads": "58M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 8400 },
+      { "name": "5 star", "count": 39800 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://static.vecteezy.com/system/resources/previews/007/962/170/non_2x/geometric-music-wave-app-icon-abstract-soundwave-music-rhythm-dj-equalizer-waveform-digital-sound-audio-frequency-ui-ux-user-interface-web-or-mobile-application-isolated-illustration-vector.jpg",
+    "title": "SoundWave",
+    "companyName": "EchoDev",
+    "description": "Music streaming app with smart recommendations and offline playback.",
+    "size": 110,
+    "reviews": 74200,
+    "ratingAvg": 4.5,
+    "downloads": "76M",
+    "ratings": [
+      { "name": "1 star", "count": 1300 },
+      { "name": "2 star", "count": 1900 },
+      { "name": "3 star", "count": 5000 },
+      { "name": "4 star", "count": 15200 },
+      { "name": "5 star", "count": 50800 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://static.vecteezy.com/system/resources/previews/021/813/051/non_2x/quick-chef-logo-design-template-with-hat-chef-and-fast-perfect-for-business-company-restaurant-mobile-app-etc-free-vector.jpg",
+    "title": "QuickChef",
+    "companyName": "TasteHub",
+    "description": "Get quick and personalized recipes based on your fridge ingredients.",
+    "size": 70,
+    "reviews": 21400,
+    "ratingAvg": 4.6,
+    "downloads": "18M",
+    "ratings": [
+      { "name": "1 star", "count": 480 },
+      { "name": "2 star", "count": 640 },
+      { "name": "3 star", "count": 2400 },
+      { "name": "4 star", "count": 6800 },
+      { "name": "5 star", "count": 13080 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://lh3.googleusercontent.com/GHucX86naoTlrIXveSPIF10K-ATP9tL5Ya_EzQmfkqvJ7aRxcrYyqtz6pX0--l_HDaJzHqonrPmFDtXzW0B64mUJ-g=s128-rj-sc0x00ffffff",
+    "title": "LangBuddy",
+    "companyName": "LingoTech",
+    "description": "AI-powered language learning with conversation-based lessons.",
+    "size": 85,
+    "reviews": 33200,
+    "ratingAvg": 4.9,
+    "downloads": "29M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 24200 }
+    ]
+  }
+]
