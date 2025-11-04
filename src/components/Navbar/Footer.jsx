@@ -1,5 +1,6 @@
 // src/components/Footer.jsx
 import Logo from '../../assets/images/logo.png'; // adjust path
+import { FaFacebook, FaLinkedin } from 'react-icons/fa';
 
 const Footer = () => {
   return (
@@ -18,14 +19,14 @@ const Footer = () => {
             className="hover:text-blue-500 transition-colors duration-200"
             aria-label="LinkedIn"
           >
-            <FaLinkedinIn />
+            <FaLinkedin/>
           </a>
           <a
             href="#"
             className="hover:text-blue-500 transition-colors duration-200"
             aria-label="Facebook"
           >
-            <FaFacebookF />
+            <FaFacebook />
           </a>
         </div>
 
